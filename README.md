@@ -1,4 +1,4 @@
-# New Repository
+# \*\*New Repository\*\*
 
 **Note:** This has been integrated into the [obs-ftc-stream-manager](https://github.com/FIRST-South-Carolina/obs-ftc-stream-manager) repository and is no longer updated here
 
