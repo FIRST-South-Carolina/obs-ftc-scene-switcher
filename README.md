@@ -1,3 +1,7 @@
+# New Repository
+
+**Note:** This has been integrated into the [obs-ftc-stream-manager](https://github.com/FIRST-South-Carolina/obs-ftc-stream-manager) repository and is no longer updated here
+
 # FTC Scene Switcher
 
 FTC Scene Switcher is an [OBS Studio](https://obsproject.com/) script for [FIRST Tech Challenge](https://www.firstinspires.org/robotics/ftc) events that can automatically switch OBS scenes based on match events from the FTCLive scoring system.
