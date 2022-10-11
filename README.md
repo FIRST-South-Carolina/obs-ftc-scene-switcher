@@ -7,7 +7,7 @@ Keep the OBS "Script Log" open to see output from events, hotkeys, and settings 
 
 ## OBS Scripting Setup
 
-The FTC Scene Switcher script requires [OBS Studio](https://obsproject.com/) and Python 3.6+. OBS Studio supports current Python versions now on Windows, so grab the latest stable "Windows installer (64-bit)" build available at [python.org](https://www.python.org/ftp/python/3.10.6/python-3.10.6-amd64.exe). From the OBS Studio software, select "Tools" from the menu bar and "Scripts" from the menu, go to the "Python Settings" tab, and select the base prefix for Python 3.6+. For Windows, the base prefix will be `%LOCALAPPDATA%\Programs\Python\Python310` (for Python 3.10). To load one of the scripts below, go back to the "Scripts" tab and click the "+" in the lower-left and navigate to the appropriate script file.
+The FTC Scene Switcher script requires [OBS Studio](https://obsproject.com/) and Python 3.6+. OBS Studio supports current Python versions now on Windows, so grab the latest stable "Windows installer (64-bit)" build available at [python.org](https://www.python.org/downloads/windows/) (currently [3.10.7](https://www.python.org/ftp/python/3.10.7/python-3.10.7-amd64.exe)). From the OBS Studio software, select "Tools" from the menu bar and "Scripts" from the menu, go to the "Python Settings" tab, and select the base prefix for Python 3.6+. For Windows, the base prefix will be `%LOCALAPPDATA%\Programs\Python\Python310` (for Python 3.10). To load one of the scripts below, go back to the "Scripts" tab and click the "+" in the lower-left and navigate to the appropriate script file.
 
 
 ## FTC Scene Switcher Setup

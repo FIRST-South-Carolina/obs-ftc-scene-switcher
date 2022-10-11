@@ -54,8 +54,8 @@ def script_load(settings_):
     hotkey_disable = obs.obs_data_get_array(settings, 'hotkey_disable')
 
     # register hotkeys
-    hotkeys['enable'] = obs.obs_hotkey_register_frontend('ftc-match-uploader_start', '(FTC) Start recording a match', enable)
-    hotkeys['disable'] = obs.obs_hotkey_register_frontend('ftc-match-uploader_stop', '(FTC) Stop recording a match and upload to YouTube', disable)
+    hotkeys['enable'] = obs.obs_hotkey_register_frontend('ftc-scene-switcher_enable', '(FTC) Enable automatic scene switcher', enable)
+    hotkeys['disable'] = obs.obs_hotkey_register_frontend('ftc-scene-switcher_disable', '(FTC) Disable automatic scene switcher', disable)
 
     # load saved hotkey data
     obs.obs_hotkey_load(hotkeys['enable'], hotkey_enable)
